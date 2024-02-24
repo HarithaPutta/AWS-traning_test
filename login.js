@@ -8,6 +8,8 @@
 
     <!-- Link the JavaScript file -->
     <script defer src="login.js"></script>
+       <!-- Link the JavaScript file -->
+    <script defer src="login.js"></script>
 </head>
 <body>
     <div>

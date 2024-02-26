@@ -9,6 +9,8 @@
 <body>
     <header>
         <h1>Welcome to Your Website</h1>
+        <h1>Welcome to Your Website</h1>
+        <h1>Welcome to Your Website</h1>
         <!-- Add any header content here -->
     </header>
 

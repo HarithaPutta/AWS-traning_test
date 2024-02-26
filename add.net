@@ -1,0 +1,20 @@
+function validateLogin() {
+    // Get the values from the form
+    var username = document.getElementById("username").value;
+    var password = document.getElementById("password").value;
+
+    // In a real-world scenario, you might perform additional client-side validation
+
+    // Simulate a simple client-side check
+    if (username === "" || password === "") {
+        document.getElementById("error-message").innerHTML = "Username and password are required";
+    } else {
+        // Clear any previous error message
+        document.getElementById("error-message").innerHTML = "";
+
+        // Perform any additional client-side actions if needed
+
+        // Submit the form (this is just a simulation, in a real scenario, you would send a request to the server)
+        document.getElementById("login-form").submit();
+    }
+}
